@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-03-phonebook",
+  "name": "goit-react-hw-04-hooks-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myroniukis.github.io/goit-react-hw-03-phonebook",
+  "homepage": "https://myroniukis.github.io/goit-react-hw-04-hooks-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MyroniukIS/goit-react-hw-03-phonebook.git"
+    "url": "git+https://github.com/MyroniukIS/goit-react-hw-04-hooks-phonebook.git"
   },
   "author": "MyroniukIS <knopkakyrs@gmail.com>",
   "bugs": {
-    "url": "https://github.com/MyroniukIS/goit-react-hw-03-phonebook/issues"
+    "url": "https://github.com/MyroniukIS/goit-react-hw-04-hooks-phonebook/issues"
   },
   "eslintConfig": {
     "extends": [
